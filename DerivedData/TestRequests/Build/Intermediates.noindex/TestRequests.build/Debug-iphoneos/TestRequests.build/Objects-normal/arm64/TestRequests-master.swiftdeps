@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "252326ebe550283b0ebbad6dfe8cd633be9529abe18a75fff9d3a16cf5abafdd"
+build_start_time: [1648471795, 472494125]
+build_end_time: [1648471795, 670758008]
+inputs:
+  "/Users/nazar/Documents/TestRequests/TestRequests/AppDelegate.swift": [1648470398, 353072643]
+  "/Users/nazar/Documents/TestRequests/TestRequests/SceneDelegate.swift": [1648470398, 356203079]
+  "/Users/nazar/Documents/TestRequests/TestRequests/ViewController.swift": [1648471795, 387362003]

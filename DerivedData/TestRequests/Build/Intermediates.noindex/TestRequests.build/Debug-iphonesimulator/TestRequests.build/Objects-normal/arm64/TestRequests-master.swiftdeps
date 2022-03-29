@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "ed2ef92c0c0d1bc5c13680217551a4c9d7533af5bf52979e786e806eb89ed773"
+build_start_time: [1648548509, 256790161]
+build_end_time: [1648548509, 441777944]
+inputs:
+  "/Users/nazar/Documents/TestRequests/TestRequests/AppDelegate.swift": [1648474194, 652259349]
+  "/Users/nazar/Documents/TestRequests/TestRequests/Helpers/EventPublisher.swift": [1648548107, 367238283]
+  "/Users/nazar/Documents/TestRequests/TestRequests/Helpers/Network.swift": [1648547657, 88800430]
+  "/Users/nazar/Documents/TestRequests/TestRequests/Helpers/Storage.swift": [1648547045, 40306091]
+  "/Users/nazar/Documents/TestRequests/TestRequests/SceneDelegate.swift": [1648470398, 356203079]
+  "/Users/nazar/Documents/TestRequests/TestRequests/ViewController.swift": [1648548509, 129975795]
+  "/Users/nazar/Documents/TestRequests/TestRequests/ViewModel.swift": [1648548327, 911857128]
